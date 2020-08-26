@@ -18,4 +18,4 @@ There are some infomation of me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Micalhl&layout=compact)](https://github.com/Micalhl)
 
-### Nice to meet you, baby. Now we are friends. xD
+### Nice to meet you~ Now we are friends. xD 🤝
