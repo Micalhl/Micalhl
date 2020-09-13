@@ -2,13 +2,11 @@
 
 # About me
 
+I'm a middle school student, 14 years old.
 I'm a bad developer. Please call me `PIGEON KING`!
-Hahaha~
 
-~~I am a bukkit developer but don't have basic of java,~~
+~~I am a bukkit developer but don't have basic of java,~~<br>
 ~~and I live in a dream...~~
-
-People usually call me `RBQ` because I lost my bet hhhhhhhhhhh
 
 # Other
 
@@ -19,4 +17,4 @@ There are some infomation of me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Micalhl&layout=compact)](https://github.com/Micalhl)
 
-### Nice to meet you~ Now we are friends. xD 🤝
+### Nice to meet you~
