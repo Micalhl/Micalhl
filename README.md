@@ -6,7 +6,7 @@ I am a junior middle school student, who comes from Tianjin.<br>
 Tianjin is China's third largest city, and independent municipality with a population of 9.5 million.<br>
 There are many traditional and delicious food, would you like to enjoy it with me?
 
-I'm currently working on TrHologram. [Modern & Lightweight Holographic-Plugin](https://github.com/Micalhl/TrHologram)
+I'm currently working on TrHologram ([Modern & Lightweight Holographic-Plugin](https://github.com/Micalhl/TrHologram))
 
 [![Modern & Lightweight Holographic-Plugin](https://github-readme-stats.vercel.app/api/pin/?username=Micalhl&repo=TrHologram&theme=tokyonight)](https://github.com/Micalhl/TrHologram)
 
