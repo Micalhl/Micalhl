@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h3>    
+
 ```java
 public class Mical {
 
@@ -30,6 +32,8 @@ public class Mical
 }
 
 ```
+
+</h3>
 
 ![Mical's Github Stats](https://github-readme-stats.vercel.app/api?username=Micalhl&show_icons=true)
 
